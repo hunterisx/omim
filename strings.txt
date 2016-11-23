@@ -2501,7 +2501,7 @@
     it = Aggiungi al Segnalibri
     ja = ブックマークに追加
     ko = 즐겨찾기에 추가
-    lt = Įtraukti į adresyną
+    lt = Įtraukti į žymes
     nb = Legg til i bokmerker
     pl = Dodaj zakładkę
     ro = Adăugare la „Marcaje”
@@ -2534,7 +2534,7 @@
     it = Colore del Segnalibro
     ja = ブックマーク表示色
     ko = 색상 즐겨찾기에 추가
-    lt = Adresyno spalva
+    lt = Žymės spalva
     nb = Bokmerk farge
     pl = Kolor zakładki
     pt = Cor de favoritos
@@ -2567,7 +2567,7 @@
     it = Seleziona un nome del segnalibro
     ja = ブックマークセット名称
     ko = 집합 이름을 즐겨찾기에 추가
-    lt = Adresyno grupės pavadinimas
+    lt = Žymės grupės pavadinimas
     nb = Bokmerk settnavn
     pl = Nazwa zestawu zakładek
     pt = Nome do conjunto dos favoritos
@@ -2600,7 +2600,7 @@
     it = Seleziona un segnalibro
     ja = ブックマークセット
     ko = 세트를 즐겨찾기에 추가
-    lt = Adresyno grupės
+    lt = Žymės grupės
     nb = Bokmerk sett
     pl = Zestawy zakładek
     pt = Conjuntos de favoritos
@@ -2633,7 +2633,7 @@
     it = Segnalibri
     ja = ブックマーク
     ko = 북마크
-    lt = Adresynas
+    lt = Žymės
     nb = Bokmerker
     pl = Zakładki
     pt = Favoritos
@@ -2864,7 +2864,7 @@
     it = Non hai ancora nessun segnalibro.\nTocca qualsiasi luogo sulla cartina per aggiungere un segnalibro.\nPossono essere anche importati Preferiti da altre fonti e visualizzate nell'app MAPS.ME. Apri il file KML/KMZ con i pin salvati da una casella di posta, Dropbox o un link web.
     ja = 未だブックマークがありません。\nマップ上をタップすればブックマークを追加できます。\nMAPS.ME以外のアプリで作成したブックマークの表示も可能です。KML/KMZ形式のピン情報をメールやDropbox、URLから取得してください。
     ko = 즐겨찾기가 없습니다.\n즐겨찾기를 추가하도록 지도에 어떤 장소를 누릅니다.\n다른 소스에서 북마크는 MAPS.ME 앱에서 가져와서 표시할 수 있습니다. 메일, 드롭박스 또는 웹링크에서 저장한 핀으로 KML/KMZ 파일을 열 수 있습니다.
-    lt = Jūs dar neturite adresyno.\nBakstelėkite bet kurioje vietoje ant žemėlapio norėdami pridėti žymę į adresyną.\nAdresynai iš kitų šaltinių taip pat gali būti importuojami ir rodomi programoje MAPS.ME. Atverkite KML/KMZ faila su išsaugotu adresynu iš el. pašto, Dropbox ar interneto nuorodos.
+    lt = Jūs dar neturite žymų.\nBakstelėkite bet kurioje vietoje ant žemėlapio norėdami pridėti vietą į žymę.\nŽymės iš kitų šaltinių taip pat gali būti importuojamos ir rodomos programoje MAPS.ME. Atverkite KML/KMZ failą su išsaugota žyme iš el. pašto, Dropbox ar interneto nuorodos.
     nb = Du har ingen bokmerker enda.\nTrykk på et hvilket som helst sted på kartet for å legge til et bokmerke.\nBokmerker fra andre kilder kan også importeres og vises i MAPS.ME. Åpne KML-/KMZ-filer med lagrede bokmerker fra e-post, Dropbox eller internettkobling.
     pl = Nie oznaczono jeszcze żadnych zakładek.\nProszę dotknąć dowolnego miejsca na mapie, aby dodać zakładkę.\nMożna importować i wyświetlać zakładki z innych zasobów. Program otwiera pliki KML/KMZ z zapisanymi zakładkami, pochodzące z wiadomości email, Dropboxa lub odnośników internetowych.
     pt = Ainda não tem marcadores.\nToque em qualquer lugar no mapa para adicionar um marcador.\nOs marcadores de outras fontes também podem ser importados e exibidos na aplicação MAPS.ME. Abrir ficheiro KML/KMZ com pinos guardados a partir do mail, Dropbox ou ligação web.
@@ -2897,7 +2897,7 @@
     it = Possono essere anche importati Preferiti da altre fonti e visualizzate nell'app MAPS.ME. Apri il file KML/KMZ con i pin salvati da una casella di posta, Dropbox o un link web.
     ja = MAPS.ME以外のアプリで作成したブックマークの表示も可能です。KML/KMZ形式のピン情報をメールやDropbox、URLから取得してください。
     ko = 다른 소스에서 북마크는 MAPS.ME 앱에서 가져와서 표시할 수 있습니다. 메일, 드롭박스 또는 웹링크에서 저장한 핀으로 KML/KMZ 파일을 열 수 있습니다.
-    lt = Adresynai iš kitų šaltinių taip pat gali būti importuojami ir rodomi programoje MAPS.ME. Atverkite KML/KMZ faila su išsaugotu adresynu iš el. pašto, Dropbox ar interneto nuorodos.
+    lt = Žymės iš kitų šaltinių taip pat gali būti importuojamos ir rodomos programoje MAPS.ME. Atverkite KML/KMZ failą su išsaugota žyme iš el. pašto, Dropbox ar interneto nuorodos.
     nb = Bokmerker fra andre kilder kan også importeres og vises i MAPS.ME. Åpne KML-/KMZ-filer med lagrede bokmerker fra e-post, Dropbox eller internettkobling.
     pl = Można importować i wyświetlać zakładki z innych zasobów. Program otwiera pliki KML/KMZ z zapisanymi zakładkami, pochodzące z wiadomości email, Dropboxa lub odnośników internetowych.
     pt = Os marcadores de outras fontes podem ser importados e exibidos na aplicação MAPS.ME. Abrir ficheiro KML/KMZ com pinos guardados a partir do mail, Dropbox ou ligação web.
@@ -3909,7 +3909,7 @@
     it = Il segnalibri MAPS.ME è stato condiviso con te
     ja = MAPS.MEの位置情報シェア
     ko = 귀하와 공유된 MAPS.ME 즐겨찾기
-    lt = MAPS.ME adresynu pasidalinta su jumis
+    lt = MAPS.ME žyme pasidalinta su jumis
     nb = Delte MAPS.ME-bokmerker
     pl = Udostępnione zakładki z MAPS.ME
     pt = Os favoritos do MAPS.ME foram partilhados consigo
@@ -3942,7 +3942,7 @@
     it = Ciao,\n\nQuesti sono i miei "preferiti" fra le mappe offline di MAPS.ME, che si trovano nel file allegato "%@.kmz". Il file può essere aperto se l'app MAPS.ME è già stata installata. In caso contrario, occorre scaricare l'app per il tuo iOS o dispositivo Android dal link http://maps.me/get?kmz\n\nBuon divertimento con MAPS.ME!
     ja = MAPS.MEで作成したブックマークを添付ファイル"%@.kmz"で送付します。MAPS.ME がインストールされている端末でファイルを開いてみてください。インストールはこちらから http://maps.me/get?kmz iOSまたはAndroidデバイスで利用可能です。\n\nMAPS.MEで楽しい時間をお過ごしください！
     ko = 안녕하세요.\n\n첨부된 "%@.kmz" 파일에 MAPS.ME 이미 설치되어 있다면 열어 보시기 바랍니다. MAPS.ME 프로 버전이 이미 설치되어 있다면 열어 보시기 바랍니다. 그렇지 않은 경우 우선 iOS나 Android 장치용 앱을 http://maps.me/get?kmz 링크에서 다운로드하시기 바랍니다.\n\nMAPS.ME와 함께 즐거운 시간 되시기 바랍니다!
-    lt = Sveiki!\n\nPrikabinau savo adresyną iš MAPS.ME žemėlapių programos. Prašau juos atidaryti jei jūs turite įdiegtą MAPS.ME. Arba, jei neturite, atsisiųskite programą savo iOS arba Android įrenginyje iš šios nuorodos: http://maps.me/get?kmz\n\nMėgaukitės kelionėmis su MAPS.ME!
+    lt = Sveiki!\n\nPrikabinau savo žymas iš MAPS.ME žemėlapių programos. Prašau juos atidaryti jei jūs turite įdiegtą MAPS.ME. Arba, jei neturite, atsisiųskite programą savo iOS arba Android įrenginyje iš šios nuorodos: http://maps.me/get?kmz\n\nMėgaukitės kelionėmis su MAPS.ME!
     nb = Hallo,\n\nVedlagt er bokmerkene mine fra MAPS.ME offline-kart. De kan åpnes hvis du har installert MAPS.ME. Hvis ikke kan du laste ned appen til en iOS- eller Android-enhet ved å følge denne koblingen: http://maps.me/get?kmz\n\nKos deg på reisen med MAPS.ME!
     pl = Cześć,\n\nOto moje zakładki pochodzące z aplikacji MAPS.ME wraz z załączonymi mapami offline w pliku „%@.kmz”. Proszę otwórz je jeśli posiadasz zainstalowaną aplikację MAPS.ME. Jeśli nie, najpierw pobierz ją na swoje urządzenie z systemem iOS lub Android pod tym odnośnikiem: http://maps.me/get?kmz\n\nBaw się dobrze z MAPS.ME!
     pt = Olá,\n\nAqui estão os meus favoritos dos mapas offline do MAPS.ME, anexados no ficheiro "%@.kmz". Por favor abra-os se já tiver instalado o MAPS.ME. Caso contrário, descarregue primeiro a app para o seu dispositivo iOS ou Android a partir desta hiperligação: http://maps.me/get?kmz\n\nDisfrute do MAPS.ME!
@@ -3975,6 +3975,7 @@
     it = Caricamento segnalibri in corso
     ja = ブックマークの読み込み中
     ko = 즐겨찾기 로드
+    lt = Kraunamos žymos
     nb = Laster inn bokmerker
     pl = Wczytywanie zakładek
     pt = A carregar favoritos
@@ -4007,6 +4008,7 @@
     it = Segnalibri caricati con successo! Puoi trovare i segnalibri direttamente sulla mappa, oppure aprendo la schermata dedicata alla Gestione dei segnalibri.
     ja = ブックマークが読み込まれました! ブックマークはマップ上、またはブックマーク管理画面に表示されます。
     ko = 즐겨찾기가 성공적으로 로드되었습니다! 지도 또는 즐겨찾기 관리자 화면에서 찾으실 수 있습니다.
+    lt = Žymos įkrautos sėkmingai! Jas galite rasti žemėlapyje arba žymų tvarkyklės ekrane.
     nb = Bokmerkene ble lastet inn! Du finner dem på kartet eller på skjermen «Bokmerkeadministrasjon».
     pl = Wczytano zakładki! Można odnaleźć je na mapie lub na ekranie menedżera zakładek.
     pt = Favoritos carregados com sucesso! Pode encontrá-los no mapa ou no ecrã de gestão dos favoritos.
@@ -4039,6 +4041,7 @@
     it = Caricamento dei segnalibri non riuscito. Il file potrebbe essere corrotto o difettoso.
     ja = ブックマークのアップロードに失敗しました。ファイルが破損していた、または問題があった可能性があります。
     ko = 즐겨찾기 업로드가 실패했습니다. 파일이 훼손되었거나 결함이 있을지도 모릅니다.
+    lt = Žymės išsiuntimas nepavyko. Failas gali būti sugadintas arba pažeistas.
     nb = Opplasting av bokmerker mislyktes. Filen kan være skadet eller defekt.
     pl = Nieudane wczytywanie zakładek. Plik może być uszkodzony lub posiadać defekty.
     pt = Falha no envio dos favoritos. O ficheiro pode estar corrompido ou com defeito.
@@ -4070,6 +4073,7 @@
     id = Edit
     it = Copia link
     ko = 편집
+    lt = Redaguoti
     nb = Rediger
     pl = Edytuj
     pt = Editar
@@ -4101,6 +4105,7 @@
     it = La tua posizione non è stata ancora stabilita
     ja = 現在の座標が未確定です
     ko = 귀하의 위치를 아직 알아내지 못 했습니다
+    lt = Jūsų vieta dar nebuvo nustatyta
     nb = Posisjonen din har ikke blitt fastslått enda
     pl = Nie określono jeszcze aktualnego położenia
     pt = A sua localização ainda não foi determinada
@@ -4133,6 +4138,7 @@
     it = Scarica il paese della tua posizione attuale (%@)
     ja = 現在の地域をダウンロード(%@)
     ko = 귀하께서 현재 계신 국가인 을(를) 다운로드 (%@)
+    lt = Atsisiųsti jūsų dabartinės vietos žemėlapį (%@)
     nb = Last ned det landet du befinner deg i (%@)
     pl = Pobierz mapę kraju, w którym aktualnie przebywasz (%@)
     pt = Descarregue o país da sua localização atual (%@)
@@ -4165,6 +4171,7 @@
     it = Scarica il paese che stai cercando (%@)
     ja = 現在マップで検索している国をダウンロード(%@)
     ko = 귀하께서 검색 중인 국가인 을(를) 다운로드 (%@)
+    lt = Atsisiųskite šalį kurios jūs ieškote (%@)
     nb = Last ned det landet du søker på (%@)
     pl = Pobierz mapę kraju, którego aktualnie poszukujesz (%@)
     pt = Descarregue o país em que está a fazer a procura (%@)
@@ -4197,6 +4204,7 @@
     it = Siamo spiacenti, ma le impostazioni di archiviazione delle mappe sono disabilitate.
     ja = 恐れ入ります、マップストレージ設定が無効になっています。
     ko = 죄송합니다, 지도 스토리지 설정이 비활성화되어 있습니다.
+    lt = Atsiprašome, žemėlapių saugojimo parametrai šiuo metu išjungti.
     nb = Beklager, innstillingene for kartlagring er for øyeblikket deaktivert.
     pl = Przepraszamy, ustawienia pamięci mapy są aktualnie wyłączone.
     pt = Lamentamos, as definições do Map Storage estão atualmente desativadas.
@@ -4229,6 +4237,7 @@
     it = Il download della nazione è in corso.
     ja = ダウンロードを実行中です
     ko = 국가 다운로드가 지금 진행 중입니다.
+    lt = Dabar vyksta žemėlapio atsiuntimas
     nb = Nedlasting av land pågår nå.
     pl = Trwa pobieranie mapy kraju.
     pt = A descarga do país está atualmente em progresso.
@@ -4261,6 +4270,7 @@
     it = Confidiamo nel fatto che sia piacevole utilizzare MAPS.ME! In caso positivo, ti preghiamo di valutare o recensire l'app all'interno dell'app store. Ti porterà via meno di un minuto e la cosa ci aiuterebbe tantissimo. Grazie per il tuo sostegno!
     ja = MAPS.MEの使い心地はいかがでしょうか。もしよろしければ、App Storeでレビューや評価をお知らせください。皆様からいただく一言が開発の励みになります。ご支援をよろしくお願いいたします！
     ko = MAPS.ME로 즐거운 시간을 보내시기 바랍니다! MAPS.ME가 마음에 드신다면 앱스토어에서 평가를 남겨 주시기 바랍니다. 평가하는 데는 1분이 채 걸리지 않지만 저희에게 큰 도움이 됩니다. 성원해 주셔서 감사합니다!
+    lt = Tikimės, kad jums patinka naudoti MAPS.ME! Jei taip, prašome įvertinti arba peržiūrėti programą "App Store". Tai užtrunka mažiau nei minutę, bet tikrai gali mums padėti. Ačiū už jūsų palaikymą!
     nb = Håper du liker å bruke MAPS.ME! Hvis du gjør det er det flott om du rangerer eller vurderer appen på App Store. Det tar deg mindre enn ett minutt, men kan virkelig hjelpe oss. Takk for støtten!
     pl = Mamy nadzieję, że podoba ci się aplikacja MAPS.ME! Jeśli tak to proszę oceń ją lub napisz recenzję w AppStore. To zajmie mniej niż minutę, a bardzo nam pomoże. Dziękujemy za wsparcie!
     pt = Esperamos que esteja a disfrutar da utilização do MAPS.ME! Se assim for, por favor classifique ou dê a sua opinião sobre a app na App Store. Vai demorar menos de um minuto mas pode mesmo ajudar-nos. Obrigado pelo seu apoio!
@@ -4292,6 +4302,7 @@
     it = No, grazie
     ja = いいえ
     ko = 평가하지 않겠습니다
+    lt = Ne, ačiū
     nb = Nei takk
     pl = Nie, dziękuję
     pt = Não, obrigado
@@ -4324,6 +4335,7 @@
     it = Vedi pin sulla mappa. Apri %1$@ o %2$@
     ja = 私のピン情報はこの位置です。リンク: %1$@, %2$@
     ko = 지도에서 내 PIN을 참조하십시오. %1$@ 또는 %2$@ 열기
+    lt = Ei, pažiūrėk į mano pin iš MAPS.ME! %1$@ arba %2$@ Neturite įsidiegę žemėlapių programos? Atsisiųskite čia: http://maps.me/get
     nb = Hei, se merket mitt på MAPS.ME! %1$@ eller %2$@ Har du ikke installert offline-kart? Last dem ned her: http://maps.me/get
     pl = Mój znacznik w MAPS.ME %1$@ i %2$@
     pt = Veja o meu marcador no mapa do MAPS.ME. Abra a hiperligação: %1$@ ou %2$@
@@ -4355,6 +4367,7 @@
     it = Vedi dove sono ora. Apri %1$@ o %2$@
     ja = 私は今ここにいます。リンク: %1$@, %2$@
     ko = 현재 위치를 알아 보십시오. %1$@ 또는 %2$@ 열기
+    lt = Ei, pažiūrėk į mano dabartinę vietą iš MAPS.ME! %1$@ arba %2$@ Neturite įsidiegę žemėlapių programos? Atsisiųskite čia: http://maps.me/get
     nb = Hei, se posisjonen min på MAPS.ME! %1$@ eller %2$@ Har du ikke offline-kart? Last dem ned her: http://maps.me/get
     pl = Zobacz gdzie jestem. Link %1$@ lub %2$@
     pt = Veja onde estou agora. Abra a hiperligação: %1$@ ou %2$@
@@ -4387,6 +4400,7 @@
     it = Dai uno sguardo al mio pin sulla mappa di MAPS.ME
     ja = MAPS.MEでピン情報を確認
     ko = MAPS.ME 지도에서 내 핀 보기
+    lt = Ei, pažiūrėk į mano pin iš MAPS.ME!
     nb = Hei, se merket mitt på MAPS.ME-kartet
     pl = Obejrzyj mój znacznik na mapie w MAPS.ME
     pt = Veja o meu marcador no mapa do MAPS.ME.
@@ -4419,6 +4433,7 @@
     it = Ciao,\n\nHo segnato %1$@ su MAPS.ME, le mappe del mondo offline. Clicca su questo link %2$@ oppure su questo %3$@ per vedere il posto sulla mappa.\n\nGrazie.
     ja = オフラインマップ MAPS.ME でこの位置にピンを作成しました: %1$@\n\nリンク %2$@ または %3$@ をクリックするとマップ上で確認できます。
     ko = 안녕하세요.\n\n다음 위치에 표시를 하였습니다: 오프라인 세계 지도인 MAPS.ME에서 %1$@. %2$@ 또는 %3$@ 링크를 클릭하여 지도상에서 해당 장소를 살펴보시기 바랍니다.\n\n감사합니다.
+    lt = Labas,\n\naš prikabinau: %1$@ ant MAPS.ME pasaulio žemėlapių programos. Spauskite šią nuorodą %2$@ ar šią vieną %3$@ tam, kad pamatyti vietą žemėlapyje.\n\nAčiū.
     nb = Hei,\n\nI merket av: %1$@ på MAPS.ME, offline verdenskart. Klikk på denne koblingen %2$@ eller denne %3$@ for å se stedet på kartet.\n\nTakk.
     pl = Cześć,\n\nDodałem znacznik w: %1$@ w aplikacji MAPS.ME, mapach offline całego świata. Naciśnij ten link %2$@ lub ten %3$@ by zobaczyć to miejsce na mapie.\n\nDziękuję.
     pt = Olá,\n\nFixei:%1$@ na MAPS.ME, mapas offline mundiais. Clique nesta ligação %2$@ ou nesta %3$@ para ver o local no mapa.\n\nObrigado.
@@ -4451,6 +4466,7 @@
     it = Guarda dove mi trovo attualmente sulla mappa MAPS.ME
     ja = MAPS.MEで現在地を確認
     ko = MAPS.ME 지도에서 제 현재 위치를 살펴 보시기 바랍니다
+    lt = Ei, pažiūrėk į mano dabartinę vietą iš MAPS.ME žemėlapio!
     nb = Hei, se posisjonen min på MAPS.ME-kartet!
     pl = Zobacz moją aktualną lokalizację na mapie przy użyciu MAPS.ME
     pt = Veja a minha localização atual em MAPS.ME map
@@ -4483,6 +4499,7 @@
     it = Ciao,\n\nSono qui adesso: %1$@. Clicca su questo link %2$@ oppure su questo %3$@ per vedere il posto sulla mappa.\n\nGrazie.
     ja = 私は今ここにいます: %1$@\n\nリンクをクリックすると詳細がマップに表示されます。\n\n%2$@\n\n%3$@
     ko = 안녕하세요.\n\n지금 다음 위치에 있습니다: %1$@. %2$@ 또는 %3$@ 링크를 클릭하여 지도상에서 해당 장소를 살펴보시기 바랍니다.\n\n감사합니다.
+    lt = Labas,\n\nAš dabar esu čia: %1$@. Spauskite šią nuorodą %2$@ ar šią vieną %3$@ , kad pamatyti vietą žemėlapyje.\n\nAčiū.
     nb = Hei,Jeg er her nå: %1$@. Klikk på denne koblingen %2$@ eller denne %3$@ for å se stedet på kartet.\n\nTakk.
     pl = Cześć,\n\nJestem teraz tutaj: %1$@. Naciśnij na ten link %2$@ lub ten %3$@, aby zobaczyć to miejsce na mapie.\n\nDziękuję.
     pt = Olá,\n\nEstou aqui agora: %1$@. Clique nesta ligação %2$@ ou nesta %3$@ para ver o local no mapa.\n\nObrigado.
@@ -4515,6 +4532,7 @@
     it = Condividi con un messaggio
     ja = メッセージで共有
     ko = 메시지로 공유
+    lt = Dalintis žinute
     nb = Del med melding
     pl = Udostępnij przez wiadomość
     pt = Partilhar por mensagem
