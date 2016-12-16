@@ -4565,6 +4565,7 @@
     it = Condividi
     ja = その他の共有
     ko = 공유
+    lt = Dalintis
     nb = Del
     pl = Udostępnij
     pt = Partilhar
@@ -4597,6 +4598,7 @@
     it = Messaggio
     ja = メッセージ
     ko = 메시지
+    lt = Žinute
     nb = Melding
     pl = Wiadomość
     pt = Mensagem
@@ -4629,6 +4631,7 @@
     it = Email
     ja = Eメール
     ko = 이메일
+    lt = El. paštu
     nb = E-post
     pl = Email
     pt = Email
@@ -4660,6 +4663,7 @@
     it = Copia link
     ja = リンクをコピー
     ko = 링크 복사하기
+    lt = 
     nb = Kopier kobling
     pl = Skopiuj odnośnik
     pt = Copiar hiperligação
